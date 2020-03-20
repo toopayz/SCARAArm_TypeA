@@ -15,5 +15,6 @@ To Do :
 
 3D CAD Software : https://www.freecadweb.org/  
 Image : https://github.com/toopayz/SCARAArm_TypeA/tree/master/Image  
+Draft Folder : https://github.com/toopayz/SCARAArm_TypeA/tree/master/Draft%20dxf%20%26%20pdf  
 
 Enjoy it.  
