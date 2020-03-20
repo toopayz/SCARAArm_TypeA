@@ -8,8 +8,8 @@ Still on progress.
 To Do :  
 - Drafting all part to .dwg file.  
 - Drawfting all part to .pdf file.  
-- Part list.  
-- Video how to assy.  
+- Mechanical Part list.  
+- Video how to assy mechanical.  
 - Electronics part etc (different repository).  
 - Programming (different repository).  
 
