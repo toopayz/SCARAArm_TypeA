@@ -6,9 +6,9 @@ Just share my Mechanical Design for SCARA Arm.
 Still on progress.  
 
 To Do :  
-- **(Done)** Drafting all part to .dwg file.  
-- **(Done)** Drawfting all part to .pdf file.  
-- **(Done)** Mechanical Part list.  
+- **(Done)** ~~Drafting all part to .dwg file.~~  
+- **(Done)** ~~Drawfting all part to .pdf file.~~  
+- **(Done)** ~~Mechanical Part list.~~  
 - Video how to assy mechanical.  
 - Electronics part etc (different repository).  
 - Programming (different repository).  
@@ -19,7 +19,7 @@ Draft Folder : https://github.com/toopayz/SCARAArm_TypeA/tree/master/Draft%20dxf
 
 **Enjoy it...^^...**  
 
-History **2020-03-21** :  
+**Update 2020-03-21** :  
 1. Initial Upload to Github.  
 2. Add draft dxf & dwg file for laser cut.  
 3. Add draft 3D pdf file for reference dimension.  
