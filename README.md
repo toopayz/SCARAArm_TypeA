@@ -19,7 +19,7 @@ Draft Folder : https://github.com/toopayz/SCARAArm_TypeA/tree/master/Draft%20dxf
 
 Enjoy it...^^...  
 
-History 2020-03 :  
+History 2020-03-21 :  
 1. Initial Upload to Github.  
 2. Add draft dxf & dwg file for laser cut.  
 3. Add draft 3D pdf file for reference dimension.  
