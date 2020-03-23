@@ -16,7 +16,7 @@ To Do :
 3D CAD Software : https://www.freecadweb.org/  
 Image : https://github.com/toopayz/SCARAArm_TypeA/tree/master/Image  
 Draft Folder : https://github.com/toopayz/SCARAArm_TypeA/tree/master/Draft%20dxf%20%26%20pdf  
-License : Don't Care License, Do what u want...:D :D :D 
+License : Don't Care License, Do what u want...^^...  
 
 **Enjoy it...^^...**  
 
@@ -26,4 +26,4 @@ License : Don't Care License, Do what u want...:D :D :D
 3. Add draft 3D pdf file for reference dimension.  
 4. Add Part List mechanical non Acrilic.  
 
-//-------------- End Of File  
+//-------------- End Of ReadMe
