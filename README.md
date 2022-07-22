@@ -1,4 +1,5 @@
 # SCARA Arm TypeA
+## DISCONTINUED Repository
 بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم... 
   
 Open Project SCARA ARM Type A.  
